@@ -3,7 +3,7 @@
 <img width="1390" height="325" alt="Cupcakes-OS-Text" src="https://github.com/user-attachments/assets/743b5c2d-a07f-484e-af31-a4ffb3126685" />
 
 <p align="center">
-  I build for my own workflow: a custom NixOS distro, Roblox VMs and games, Minecraft servers and mods, and a nostalgic little corner of the personal web.
+  I build for my own workflow: a custom NixOS distro, Roblox VMs and games, and a nostalgic little corner of the personal web.
   <br />
   Everyone calls me <strong>Ryry</strong> on my own systems — Linux enthusiast, retro computing fan, and hobbyist dev across a few very different stacks.
 </p>
