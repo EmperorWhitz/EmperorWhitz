@@ -12,6 +12,7 @@
   <a href="https://github.com/EmperorWhitz?tab=followers">
     <img src="https://img.shields.io/github/followers/EmperorWhitz?style=flat&logo=github&label=Followers&color=7c60d1" alt="GitHub followers" />
   </a>
+  
   <a href="https://github.com/EmperorWhitz?tab=repositories">
     <img src="https://img.shields.io/github/stars/EmperorWhitz?style=flat&logo=github&label=Stars&color=fd7cff" alt="GitHub stars" />
   </a>
