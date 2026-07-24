@@ -71,11 +71,12 @@
 
 ## GitHub Statistics
 
-<div align="center">
-
-<a href="https://github.com/EmperorWhitz">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmperorWhitz&hide_border=true&background=082421&border=131313&stroke=c7b8ff&ring=fd7cff&fire=fd0098&currStreakNum=c7b8ff&currStreakLabel=7c60d1&sideNums=c7b8ff&sideLabels=7c60d1&dates=f0f0f5&border_radius=10" alt="EmperorWhitz's GitHub streak" height="165" />
-</a>
+<p>
+  <a href="https://github.com/EmperorWhitz">
+    <img height="180em"alt="Ryder's github stats" src="https://github-readme-stats-one-lemon-69.vercel.app/api?username=EmperorWhitz&include_all_commits=true&show_icons=true&hide_border=true&theme=transparent" />
+    <img height="180em"src="https://github-readme-stats-one-lemon-69.vercel.app/api/top-langs/?username=EmperorWhitz&include_all_commits=true&show_icons=true&hide_border=true&layout=compact&theme=transparent" />
+  </a>
+</p>
 
 </div>
 
