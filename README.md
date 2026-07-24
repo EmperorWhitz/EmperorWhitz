@@ -51,10 +51,10 @@
 | Project | Description |
 |---|---|
 | [![Cupcakes OS](https://img.shields.io/static/v1?label=&message=Cupcakes%20OS&color=7c60d1&labelColor=0f0f0f&style=flat&logo=nixos&logoColor=f0f0f5)](https://github.com/EmperorWhitz/Cupcakes-OS) | A NixOS-based Linux distribution with a GTK4/libadwaita installer, TUI installer, and ANIX CLI management layer. |
-| **CulxOS** | A virtual machine built inside Roblox using Luau, with a custom ISA, assembler, and Python interpreter pipeline. |
-| **Befunge Interpreter** | A Roblox project implementing the Befunge esoteric language. |
-| **Ray-Casting demo** | A from-scratch ray-casting engine built in Roblox/Luau. |
-| **Ryry Productions** | My Neocities site showcasing games and projects with a personal, nostalgic web design. |
+| [![Culx OS](https://img.shields.io/static/v1?label=&message=Culx%20OS&color=7c60d1&labelColor=0f0f0f&style=flat&logo=roblox&logoColor=f0f0f5)](https://www.roblox.com/games/85816960136620) | A virtual machine built inside Roblox using Luau, with a custom ISA, assembler, and Python interpreter pipeline. |
+| [![Befunge Interpreter](https://img.shields.io/static/v1?label=&message=Befunge%20Interpreter&color=7c60d1&labelColor=0f0f0f&style=flat&logo=roblox&logoColor=f0f0f5)](https://www.roblox.com/games/91402951414210) | A Roblox project implementing the Befunge esoteric language. |
+| [![Ray-Casting Demo](https://img.shields.io/static/v1?label=&message=Ray-Casting&color=7c60d1&labelColor=0f0f0f&style=flat&logo=roblox&logoColor=f0f0f5)](https://www.roblox.com/games/11830790004) | A from-scratch ray-casting engine built in Roblox/Luau. |
+| [![Ryry Productions](https://img.shields.io/static/v1?label=&message=Ryry%20Productions&color=e03b22&labelColor=0f0f0f&style=flat&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TmVvY2l0aWVzPC90aXRsZT48cGF0aCBkPSJNMjQgMTIuMzM2bC0zLjE1OC00LjYzNy0zLjA3OCAyLjg4Ny0yLjE4MS0zLjA4LTQuOTE2IDYuNDY0LTIuOTE0LTIuNzgxTDAgMTYuMzYzTDI0IDEyLjMzNnpNMCAxMS42NjRMMjQgNy42MzdMMTcuODA3IDBsLTMuNzU0IDMuNjlMNy43MjYgMi43NUwwIDExLjY2NHoiIGZpbGw9IiNmZmZmZmYiLz48L3N2Zz4=&logoColor=ffffff)](https://greatcatsmp.neocities.org) | My Neocities site showcasing games and projects with a personal, nostalgic web design. |
 
 <br />
 
