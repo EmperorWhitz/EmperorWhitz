@@ -32,16 +32,15 @@
 ## I can help with
 
 ```text
-╭─ I CAN HELP WITH ─────────────────────────────╮
+╭─ I CAN HELP WITH ───────────────────────────────╮
 │ nixos distro building · roblox/luau · retro web │
-╰────────────────────────────────────────────────╯
+╰─────────────────────────────────────────────────╯
 ```
 
 | Area | What I do |
 |---|---|
 | **Linux distro dev** | NixOS-based Cupcakes OS: installers (GUI + TUI), CLI tooling (ANIX), driver/kernel work. |
 | **Roblox / Luau** | Custom VMs, interpreters, and game systems built from scratch in Luau. |
-| **Minecraft** | Running an SMP, modding across versions, troubleshooting server/mod compatibility. |
 | **Retro web design** | Neocities sites, ComicFury pages, and deliberately old-web aesthetics. |
 | **Desktop tinkering** | Arch/CachyOS, window manager and theme experiments, AMD GPU tuning. |
 
@@ -56,7 +55,6 @@
 | **Befunge Interpreter** | A Roblox project implementing the Befunge esoteric language. |
 | **Ray-Casting demo** | A from-scratch ray-casting engine built in Roblox/Luau. |
 | **Ryry Productions** | My Neocities site showcasing games and projects with a personal, nostalgic web design. |
-| **GreatCatSMP** | A small Minecraft SMP I run and maintain. |
 
 <br />
 
@@ -85,12 +83,12 @@
 
 <br />
 
-## Contact
+## Websites
 
-- Neocities: [Ryry Productions](https://ryryproductions.neocities.org) <!-- update if this isn't your actual URL -->
+- Neocities: [Ryry Productions](https://greatcatsmp.neocities.org)
 - Webcomic: [Von Cupcakes](https://voncupcakes.thecomicseries.com)
 
 <br />
 
 > [!IMPORTANT]
-> Don't take urself too seriously, we're all pretty dumb here.
+> Don't take yourself too seriously, we're all pretty dumb here.
