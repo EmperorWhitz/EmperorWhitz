@@ -66,7 +66,7 @@
 
 **Studying**
 
-[![Learning](https://skillicons.dev/icons?i=aws,azure,ruby)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=azure,ruby)](https://skillicons.dev)
 
 <br />
 
