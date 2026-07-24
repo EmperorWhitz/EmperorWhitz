@@ -5,7 +5,7 @@
 <p align="center">
   I build for my own workflow: a custom NixOS distro, Roblox VMs and games, Minecraft servers and mods, and a nostalgic little corner of the personal web.
   <br />
-  Everyone calls me <strong>ryry</strong> on my own systems — Linux enthusiast, retro computing fan, and hobbyist dev across a few very different stacks.
+  Everyone calls me <strong>Ryry</strong> on my own systems — Linux enthusiast, retro computing fan, and hobbyist dev across a few very different stacks.
 </p>
 
 <p align="center">
