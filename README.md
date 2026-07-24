@@ -61,7 +61,7 @@
 
 **Main**
 
-[![My Skills](https://skillicons.dev/icons?i=py,lua,cpp,cs,js,html,css,git,github,bash,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,lua,cpp,cs,c,js,html,css,git,github,bash,linux,nix)](https://skillicons.dev)
 
 **Studying**
 
