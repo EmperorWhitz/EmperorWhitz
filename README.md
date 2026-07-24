@@ -24,7 +24,6 @@
 - Building **Cupcakes OS**, a custom NixOS-based Linux distribution — GTK4/libadwaita GUI installer, a TUI installer, and **ANIX**, a CLI management layer.
 - Tuning AMD RX 9060 XT (RDNA4) driver and kernel support, and squeezing out gaming performance on NixOS with GameMode.
 - Expanding **Ryry Productions**, my Neocities site — games showcase, retro Windows-98-style UI touches, and a Zonelets-powered blog.
-- Running **GreatCatSMP**, a small Minecraft SMP, and occasionally tinkering with mods across versions from Alpha to modern Fabric.
 - Building Roblox games and tools in Luau, including a custom virtual machine (CulxOS), a Befunge interpreter, and a ray-casting demo.
 
 <br />
