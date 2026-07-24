@@ -41,7 +41,7 @@
 |---|---|
 | **Linux distro dev** | NixOS-based Cupcakes OS: installers (GUI + TUI), CLI tooling (ANIX), driver/kernel work. |
 | **Roblox / Luau** | Custom VMs, interpreters, and game systems built from scratch in Luau. |
-| **Retro web design** | Neocities sites, ComicFury pages, and deliberately old-web aesthetics. |
+| **Retro web design** | Neocities sites and deliberately old-web aesthetics. |
 | **Desktop tinkering** | Arch/CachyOS, window manager and theme experiments, AMD GPU tuning. |
 
 <br />
@@ -82,7 +82,6 @@
 ## Websites
 
 - Neocities: [Ryry Productions](https://greatcatsmp.neocities.org)
-- Webcomic: [Von Cupcakes](https://voncupcakes.thecomicseries.com)
 
 <br />
 
