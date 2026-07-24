@@ -78,8 +78,6 @@
   </a>
 </p>
 
-</div>
-
 ## Websites
 
 - Neocities: [Ryry Productions](https://greatcatsmp.neocities.org)
